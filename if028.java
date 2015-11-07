@@ -67,5 +67,7 @@ public class if028 {
     private static void Final(String result) {
         System.out.println();
         System.out.println(result);
+        System.out.println("...");
+        System.out.println("+++++");
     }
 }
