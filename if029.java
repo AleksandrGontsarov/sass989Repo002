@@ -72,5 +72,6 @@ public class if029 {
         System.out.println("...");
         System.out.println("+++");
         System.out.println("+++++ ++");
+        System.out.println("+++++ +++++");
     }
 }
