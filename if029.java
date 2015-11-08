@@ -68,10 +68,12 @@ public class if029 {
         System.out.println();
         System.out.println("Данное число :");
         System.out.println(result);
-        System.out.println(".");
-        System.out.println("...");
-        System.out.println("+++");
-        System.out.println("+++++ ++");
-        System.out.println("+++++ +++++");
+
+        System.out.println(".   ;");
+        System.out.println("...   ;");
+        System.out.println("+++   ;");
+        System.out.println("+++++ ++   ;");
+        System.out.println("+++++ +++++   ;");
+
     }
 }
